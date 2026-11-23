@@ -1,0 +1,6 @@
+{
+  "name": "Three Days In",
+  "description": "Curated 3-day travel itinerary planner with structured daily schedules for Rome, Paris, Tokyo, and New York.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
